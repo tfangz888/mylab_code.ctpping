@@ -43,8 +43,8 @@ public:
 int main(int argc,char *argv[])
 {
 	if (argc != 2) {
-		std::cout << "usage:ctpping address" << std::endl;
-		std::cout << "example:ctpping tcp://180.168.146.187:10100" << std::endl;
+		std::cout << "usage:ctptradeping address" << std::endl;
+		std::cout << "example:ctptradeping 218.202.237.33:10102" << std::endl;
 		return 0;
 	}
 
